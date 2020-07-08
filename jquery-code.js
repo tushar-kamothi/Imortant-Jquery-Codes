@@ -20,7 +20,7 @@ if($(window).width() >= 1024){
   // do your stuff
 }
 
-///Mobile device click event work for add class
+///Mobile device click event work for add class --- https://ruonapp.com/
 jQuery('.anima-smart-layers-pointers').on('touchstart', function (e) {
   if (e.type == 'touchstart') {
   console.log('clicked');
